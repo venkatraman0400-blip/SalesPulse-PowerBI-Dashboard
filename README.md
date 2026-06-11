@@ -10,6 +10,12 @@
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![SalesPulse Dashboard](https://raw.githubusercontent.com/venkatraman0400-blip/SalesPulse-PowerBI-Dashboard/main/assets/dashboard_preview.png)
+
+---
+
 ## 📌 Key Metrics
 
 | Metric | Value |
